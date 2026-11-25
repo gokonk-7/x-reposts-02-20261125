@@ -1,0 +1,6 @@
+# Kit and competition data (never committed: they break thinking_reproduces)
+kit/
+competition.json
+requirements.json
+# Local test output
+out/
